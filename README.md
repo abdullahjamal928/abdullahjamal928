@@ -20,10 +20,8 @@ I’m always up for exploring new tools and techniques in the world of data.
 🤝 Let’s Collaborate!
 Whether you’re a fellow data nerd, a recruiter, or just someone curious about my work, feel free to connect:
 
-### 📫 Let’s Connect!  
-### 📫 Let’s Connect!  
+### 📫 Let’s Connect!    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jamal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-jamal-aj/)
-
 
 Email: abdullahjamal928@gmail.com
 Feel free to explore my repos and join me on this exciting journey. Let’s collaborate, learn, and grow together! Thanks for stopping by! 😊
