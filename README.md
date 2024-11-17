@@ -22,7 +22,7 @@ Whether you’re a fellow data nerd, a recruiter, or just someone curious about 
 
 ### 📫 Let’s Connect!  
 ### 📫 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jamal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/in/abdullah-jamal-aj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jamal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-jamal-aj/)
 
 
 Email: abdullahjamal928@gmail.com
