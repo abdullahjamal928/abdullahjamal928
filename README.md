@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! 🌟
 
 I’m a Data Analyst in the making, passionate about transforming raw data into meaningful insights. With a strong foundation in Power BI, MS Excel, and data storytelling, I enjoy solving problems that challenge me to think critically and creatively. I’m on a mission to make sense of the chaos.
 
-🚀 What Keeps Me Going?.
+🚀 What Keeps Me Going?
 Learning new tricks: Always curious to explore smarter ways to handle data.
 Practical projects: Hands-on experience is my favourite teacher, and I’ve built solutions that simplify complex business problems.
 Storytelling
