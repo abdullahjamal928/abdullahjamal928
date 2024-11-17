@@ -1,4 +1,4 @@
-**👋 Hii there, I’m Abdullah Jamal!**
+**👋 Hi there, I’m Abdullah Jamal!**
 
 Welcome to my corner of GitHub! 🌟  
 I’m a Data Analyst, passionate about transforming raw data into meaningful insights. With a strong foundation in Power BI, MS Excel, and data storytelling, I enjoy solving problems that challenge me to think critically and creatively. I’m on a mission to make sense of the chaos.
