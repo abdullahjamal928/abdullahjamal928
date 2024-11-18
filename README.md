@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Abdullah Jamal!
+##👋Hi there, I’m Abdullah Jamal!
 
 ### 👨‍💻 About Me  
 
