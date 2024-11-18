@@ -1,9 +1,9 @@
-## 👋 Hi there, I’m Abdullah Jamal!
+# 👋 Hi there, I’m Abdullah Jamal!
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 Welcome to my GitHub profile! I'm a data lover who enjoys making sense of numbers and turning them into useful insights. I work with tools like Excel, Power BI, and SQL to combine technical skills with business insight to deliver impactful solutions.
 
-### 📫 Let’s Connect!    
+## 📫 Let’s Connect!    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jamal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-jamal-aj/)
 
 Email: abdullahjamal928@gmail.com  
