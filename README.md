@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a data lover who enjoys making sense of number
 ## 📫 Let’s Connect!    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jamal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdullah-jamal-aj/)
 
-## 🔗 My Portfolio
-🌐 [Visit My Portfolio](https://codebasics.io/portfolio/Abdullah-Jamal)
+[![Portfolio](https://codebasics.io/portfolio/Abdullah-Jamal))
 
 Email: abdullahjamal928@gmail.com  
 
